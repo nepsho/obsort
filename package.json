@@ -1,0 +1,28 @@
+{
+  "name": "obsort",
+  "version": "0.0.1",
+  "description": "object sort",
+  "main": "index.js",
+  "contributors": [
+    "bcrazydreamer <bcrazydreamer@gmail.com>"
+  ],
+  "scripts": {
+    "test": "echo \"trust me no issue\""
+  },
+  "license": "MIT",
+  "repository": "nepsho/obsort",
+  "bugs": {
+    "url": "https://github.com/nepsho/obsort/issues"
+  },
+  "author": "bcrazydreamer <bcrazydreamer@gmail.com>",
+  "homepage": "https://github.com/nepsho/obsort#readme",
+  "keywords": [
+    "sort",
+    "object sort"
+  ],
+  "files": [
+    "LICENSE",
+    "README.md",
+    "index.js"
+  ]
+}
